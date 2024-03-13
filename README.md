@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/localBox0/test/assets/87381764/e415df07-3e0a-4159-9ce0-906defa729c5" align="center" style="width: 100%" />
+<img src="https://github.com/localBox0/test/assets/87381764/c6ef6937-14aa-4f7e-b2cb-e57c39166e92" align="center" />
 </div>  
   
 ---
@@ -42,11 +42,11 @@ But we don't just deliver great results – our target is working closely with o
 ### Why us:  
   
 
-Fixed price - we prepare an accurate description with the whole price;
-Transferring ownership - all the crucial documentation and codes, stay with you;
-Warranty - we guarantee you the result’s quality and provide a warranty month;
-Close collaboration - the more you've involved the better the result is;
-Personalized approach - our team will deeply explore your request and provide you with the exact solution you need.
+- Fixed price - we prepare an accurate description with the whole price;
+- Transferring ownership - all the crucial documentation and codes, stay with you;
+- Warranty - we guarantee you the result’s quality and provide a warranty month;
+- Close collaboration - the more you've involved the better the result is;
+- Personalized approach - our team will deeply explore your request and provide you with the exact solution you need.
 
 So if you're ready to take your web presence to the next level, choose WebMagic – the agency that's committed to your success.  
 
@@ -153,12 +153,20 @@ Digital Ocean, OSS code, Paytriot, Stripe, PayPal, First Data, Tap, Authorize.Ne
 <a href="https://linkedin.com/company/webmagic-agency/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.upwork.com/agencies/webmagic/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 <br/>  
-
+ [e-mail](mailto:yevhen.saienko@webmagic.agency) ✉️
 <div align="center">Our website: https://web-magic.space/</div>  
 
 
-Or You can send us [e-mail](mailto:testtesttest) ✉️
+Or You can send us 
+<div>
+<a href="mailto:yevhen.saienko@webmagic.agency" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
+</div>  
 <br />
