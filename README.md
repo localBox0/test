@@ -73,10 +73,10 @@ So if you're ready to take your web presence to the next level, choose WebMagic 
 - Also, we can implement solutions for businesses in a variety of industries.   
   
 
-<br/>  
+---
 
 
-## <div align="center">Our Skill Set<div>  
+# <div align="center">Our Tech Stack:<div>  
 <table>
 <tr>
 <td valign="top" width="33%" border="none">
