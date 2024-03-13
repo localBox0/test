@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*7-iXOPVR218vbp32.png" align="center" style="width: 100%" />
+<img src="https://github.com/localBox0/test/assets/87381764/e415df07-3e0a-4159-9ce0-906defa729c5" align="center" style="width: 100%" />
 </div>  
   
 ---
@@ -14,19 +14,19 @@ Are you a business looking for custom web solutions? Take a look at WebMagic –
 ### Numbers matter:  
   
 
-- 💯 100% JOB SUCCESS;
+- 💯 100% JOB SUCCESS
   
 
 
-- 🏆TOP RATED PLUS - Top 3% of companies;
+- 🏆TOP RATED PLUS - Top 3% of companies
   
   
 
-- 🏅EXPERT-VETTED - Only 1% of talents get this badge;
+- 🏅EXPERT-VETTED - Only 1% of talents get this badge
   
   
 
-- 115+ projects completed with ⭐⭐⭐⭐⭐;
+- 115+ projects completed with ⭐⭐⭐⭐⭐
   
   
 
@@ -49,6 +49,11 @@ Close collaboration - the more you've involved the better the result is;
 Personalized approach - our team will deeply explore your request and provide you with the exact solution you need.
 
 So if you're ready to take your web presence to the next level, choose WebMagic – the agency that's committed to your success.  
+
+
+<div align="center">
+<img src="https://github.com/localBox0/test/assets/87381764/b0a98413-fb83-48ad-8d19-837bbb1c887c" align="center" style="width: 100%" />
+</div>  
   
 
 ### We focus on:   
