@@ -3,7 +3,7 @@
 </div>  
   
 ---
-# **<div align="center">WebMagic agency</div>**  
+# **<div align="center">WebMagic Team</div>**  
 
 ### 𝖢𝗎𝗌𝗍𝗈𝗆 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍, Framework Laravel, Angular, API, AI, GPT, Full-Stack, VueJS, PHP, Start-ups, Amazon SP-API, MWS  
   
