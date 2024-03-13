@@ -138,7 +138,7 @@ Digital Ocean, OSS code, Paytriot, Stripe, PayPal, First Data, Tap, Authorize.Ne
 <br/>  
 
 
-## <div align="center">Connect with me<div>  
+## <div align="center">Connect with WebMagic Team<div>  
 
 <br/>  
 
@@ -154,16 +154,17 @@ Digital Ocean, OSS code, Paytriot, Stripe, PayPal, First Data, Tap, Authorize.Ne
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.upwork.com/agencies/webmagic/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
 <br/>  
- [e-mail](mailto:yevhen.saienko@webmagic.agency) ✉️
+
 <div align="center">Our website: https://web-magic.space/</div>  
 
 
-Or You can send us 
+Or You can send us e-mail here:
+
 <div>
 <a href="mailto:yevhen.saienko@webmagic.agency" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
